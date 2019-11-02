@@ -1,0 +1,8 @@
+apple
+pear
+bread
+cereal
+turkey
+milk
+beats
+cheese

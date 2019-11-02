@@ -1,8 +1,8 @@
-The word: apple appears 4 time(s)
-The word: pear appears 2 time(s)
-The word: bread appears 3 time(s)
-The word: cereal appears 1 time(s)
-The word: turkey appears 1 time(s)
-The word: beat appears 1 time(s)
-The word: milk appears 4 time(s)
-The word: cheese appears 2 time(s)
+Word: apple Count: 4
+Word: pear Count: 2
+Word: bread Count: 3
+Word: cereal Count: 1
+Word: turkey Count: 1
+Word: beat Count: 1
+Word: milk Count: 4
+Word: cheese Count: 2
